@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica Nueue;
     background-color: #f2f2f2;
-    background-image: url("currecyconverterbackgroundimage1.jpg");
+    background-image: url("asset/currecyconverterbackgroundimage1.jpg");
 }
 .converter {
     width: 350px;
